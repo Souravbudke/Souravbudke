@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourav Budke</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align ="right" alt="Coding" width ="400" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"> 
+<img align ="right" alt="Coding"  src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravbudke&label=Profile%20views&color=0e75b6&style=flat" alt="souravbudke" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sourav_budke" target="blank"><img src="https://img.shields.io/twitter/follow/sourav_budke?logo=twitter&style=for-the-badge" alt="sourav_budke" /></a> </p>
